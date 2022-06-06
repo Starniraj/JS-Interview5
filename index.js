@@ -77,7 +77,7 @@ console.log("Odd:" + odd);
 
 //Given a string find out number of vowels 
 
-let string = "Ribhu";
+let string = "Niraj";
 let vowel = 0;
 
 for (let k = 0; k < string.length; k++) {
